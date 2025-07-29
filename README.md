@@ -70,7 +70,7 @@ Al iniciar ingresamos el siguiente comando y le damos enter:
 ![Image alt](https://github.com/eabarriosTGC/Instalacion-de-Arch-para-la-Placa-BC-250-AMD/blob/bdc0ceb855f6f98c08cf940a51821d052be020b2/audio.png)
 
 
-### EN LA OPCION DE NUCLEO DESMARCAMOS CON LA TECLA ESPACION EL PREDETERMINADO Y ELEGIMOS EL LTS.
+### EN LA OPCION DE NUCLEO DESMARCAMOS CON LA TECLA ESPACION EL PREDETERMINADO Y ELEGIMOS EL LTS.(Actualmente el kernel 6.15.8 ya no presenta problemas de congelamiento de pantalla)
 ![Image alt](https://github.com/eabarriosTGC/Instalacion-de-Arch-para-la-Placa-BC-250-AMD/blob/bdc0ceb855f6f98c08cf940a51821d052be020b2/nucleoLts.png)
 
 
